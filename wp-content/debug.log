@@ -1,0 +1,2 @@
+[08-Jan-2026 06:21:33 UTC] PHP Warning:  Undefined array key "version_comment" in /wordpress/wp-content/plugins/elementor/modules/system-info/reporters/server.php on line 289
+[08-Jan-2026 06:21:33 UTC] PHP Warning:  Attempt to read property "Value" on null in /wordpress/wp-content/plugins/elementor/modules/system-info/reporters/server.php on line 289
